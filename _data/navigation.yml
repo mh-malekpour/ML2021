@@ -1,0 +1,6 @@
+- name: Lectures and Lab Sessions
+  link: /schedule
+- name: Assignments
+  link: /assignments
+- name: Resources
+  link: /resources
