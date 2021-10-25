@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: Machine Learning (M.Sc course)
 subtitle: Amirkabir University of Technology, Fall 1400
 layout: page 
 show_sidebar: false
