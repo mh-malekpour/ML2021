@@ -1,5 +1,5 @@
 ---
-title: Machine Learning (M.Sc course)
+title: Machine Learning
 subtitle: Amirkabir University of Technology, Fall 1400
 layout: page 
 show_sidebar: false
@@ -36,10 +36,10 @@ There is no required textbook for this course. But the students are expected to 
 
 # Reading Materials
 
-* For the mathematical side of ML: C. Bishop, Pattern Recognition and Machine Learning. 2007
+* For the mathematical side of ML: [C. Bishop, Pattern Recognition and Machine Learning. 2007](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * Machine Learning: A probabilistic perspective, Kevin Murphy
-* For classical ML in Scikit-learn: hands on machine learning
-* For deep learning in pytorch: Dive into Deep Learning
+* For classical ML in Scikit-learn: [Hands on machine learning](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+* For deep learning in pytorch: [Dive into Deep Learning](https://d2l.ai/)
 
 Other good Resources:
 
