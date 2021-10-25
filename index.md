@@ -11,21 +11,21 @@ show_sidebar: false
 
 Machine learning research aims to build computer systems that learn from experience. Learning systems are not directly programmed by a person to solve a problem, but instead they develop their own program based on examples of how they should behave, or from trial-and-error experience trying to solve the problem. These systems require learning algorithms that specify how the system should change its behavior as a result of experience. Researchers in machine learning develop new algorithms, and try to understand which algorithms should be applied in which circumstances. Machine learning is an exciting interdisciplinary field, with historical roots in computer science, statistics, pattern recognition, and even neuroscience and physics. In the past 10 years, many of these approaches have converged and led to rapid theoretical advances and real-world applications.
 
-# Software
+## Software
 
 We will be coding in Python, using the Jupyter/SKLearn/Pytorch libraries, running on Google Colab.
 
-# Prerequisites
+## Prerequisites
 
 * Basic probability and statistics (random variables, covariance matrix, CDF/PDF, Gaussian and other distributions, multiple regression).
 * Basic linear algebra (matrices, vectors, rank, basis, projection, inverse, eigenvectors).
 * Reasonable programming skills, including basic knowledge of python.
 
-# Brief Syllabus
+## Brief Syllabus
 
 There is no required textbook for this course. But the students are expected to go over the material that is introduced along the way during the course.
 
-# Assessment
+## Assessment
 
 * CA components: 6-8 Homework Assignments (50%); this includes both programming assignments and problem sets.
 * Course final projects (15%); this would be an implementation of a specific paper from the set of selected papers. You will get a bonus mark of 35% if your final project results in a draft paper ready for submission to a (national/international) conference.
@@ -34,7 +34,7 @@ There is no required textbook for this course. But the students are expected to 
 * Presentation (Optional 10%)
 * Two Exams: 28%
 
-# Reading Materials
+## Reading Materials
 
 * For the mathematical side of ML: [C. Bishop, Pattern Recognition and Machine Learning. 2007](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * Machine Learning: A probabilistic perspective, Kevin Murphy
@@ -47,15 +47,15 @@ Other good Resources:
 * The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * Introduction to Machine Learning by Ethem Alpaydin
 
-# Teaching Staff
+## Teaching Staff
 
-## Lecturer
+### Lecturer
 
 <img src="/ML2021/assets/images/Akbari.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Mohammad Akbari](https://www.linkedin.com/in/akbari59/)
 
-## Teaching Assistant
+### Teaching Assistant
 
 <img src="/ML2021/assets/images/MHMalekpour.jpg" style="border-radius:50%;height:160px;" width="auto">
 
