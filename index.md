@@ -7,7 +7,7 @@ show_sidebar: false
 
 # About This Course
 
-<img src="/ML2021/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="/ML2021/assets/images/datasciencecloud.png" height="80" width="auto">
 
 Machine learning research aims to build computer systems that learn from experience. Learning systems are not directly programmed by a person to solve a problem, but instead they develop their own program based on examples of how they should behave, or from trial-and-error experience trying to solve the problem. These systems require learning algorithms that specify how the system should change its behavior as a result of experience. Researchers in machine learning develop new algorithms, and try to understand which algorithms should be applied in which circumstances. Machine learning is an exciting interdisciplinary field, with historical roots in computer science, statistics, pattern recognition, and even neuroscience and physics. In the past 10 years, many of these approaches have converged and led to rapid theoretical advances and real-world applications.
 
