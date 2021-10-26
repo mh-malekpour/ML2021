@@ -65,10 +65,12 @@ Other good Resources:
 
 [Sahar Dastani](https://www.linkedin.com/in/sahar-dastani-a2aab0186/)
 
+<img src="/ML2021/assets/images/photo_2021-10-26_09-55-11.jpg" style="border-radius:50%;height:160px;" width="auto">
+
+[Hanieh ghabelialla](https://www.linkedin.com/in/hanieh-ghabelialla-0587a0214)
+
 [Mahdis Habibpour](https://www.linkedin.com/in/mahdishb/)
 
 [Mohamad Moghadas](https://www.linkedin.com/in/mohamad-moghadas-61735a57)
 
-[Hanieh ghabelialla](https://www.linkedin.com/in/hanieh-ghabelialla-0587a0214)
-
-[Sahar Zolghadr]()
+Sahar Zolghadr
