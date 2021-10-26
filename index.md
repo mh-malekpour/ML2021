@@ -57,20 +57,21 @@ Other good Resources:
 
 ### Teaching Assistant
 
-<img src="/ML2021/assets/images/MHMalekpour.jpg" style="border-radius:50%;height:160px;" width="auto">
+| <img src="/ML2021/assets/images/MHMalekpour.jpg" style="border-radius:50%;height:160px;" width="auto"> | <img src="/ML2021/assets/images/WhatsApp Image 2021-10-25 at 21.18.36.jpeg" style="border-radius:50%;height:160px;" width="auto"> | <img src="/ML2021/assets/images/photo_2021-10-26_09-55-11.jpg" style="border-radius:50%;height:160px;" width="auto"> |                                                           |                                                              |                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ | -------------- |
+| [Mohammad Hossein Malekpour](https://linkedin.com/in/mohammadhossein-malekpour) | [Sahar Dastani](https://www.linkedin.com/in/sahar-dastani-a2aab0186/) | [Hanieh ghabelialla](https://www.linkedin.com/in/hanieh-ghabelialla-0587a0214) | [Mahdis Habibpour](https://www.linkedin.com/in/mahdishb/) | [Mohamad Moghadas](https://www.linkedin.com/in/mohamad-moghadas-61735a57) | Sahar Zolghadr |
 
-[Mohammad Hossein Malekpour](https://linkedin.com/in/mohammadhossein-malekpour)
 
-<img src="/ML2021/assets/images/WhatsApp Image 2021-10-25 at 21.18.36.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
-[Sahar Dastani](https://www.linkedin.com/in/sahar-dastani-a2aab0186/)
 
-<img src="/ML2021/assets/images/photo_2021-10-26_09-55-11.jpg" style="border-radius:50%;height:160px;" width="auto">
 
-[Hanieh ghabelialla](https://www.linkedin.com/in/hanieh-ghabelialla-0587a0214)
 
-[Mahdis Habibpour](https://www.linkedin.com/in/mahdishb/)
 
-[Mohamad Moghadas](https://www.linkedin.com/in/mohamad-moghadas-61735a57)
 
-Sahar Zolghadr
+
+
+
+
+
+
+
