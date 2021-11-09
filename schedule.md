@@ -12,10 +12,10 @@ show_sidebar: false
 
 | Lecture                              | Materials                                                    |
 | ------------------------------------ | ------------------------------------------------------------ |
-| Course Introduction and Logistics    | [slide 1](https://docs.google.com/presentation/d/18IYdalDFZFaBbgtDZuw_QkjSMe28JmCNCdGpEyzL3Ik/edit?usp=sharing) |
-| Introduction to Machine Learning     | [slide 2](https://docs.google.com/presentation/d/1cgIs19UpYjjk7hc_GEAG5RkRtl2OctXtHcDvbz2udXs/edit?usp=sharing) |
-| **Regression Section**               |                                                              |
-| Linear Regression                    | [slide 3](https://docs.google.com/presentation/d/1uhzh7uMsP_wdNFY9v8vhtZ7453aHJ8Imo7tRV2gJbr8/edit?usp=sharing) |
+| Course Introduction and Logistics    | [slide 1](https://drive.google.com/file/d/1-8u47BnJ-YD3ocdWscjiWFXh9vWfESLx/view?usp=sharing) |
+| Introduction to Machine Learning     | [slide 2](https://drive.google.com/file/d/1-6mBoULSMu6LwMAryFEck9l7SBDWNlqk/view?usp=sharing) |
+| **Regression Section**               | [slide 3](https://drive.google.com/file/d/1-9EsQKUa4SXlWGLYD02m7piu7529w6TH/view?usp=sharing) + [slide 4](https://drive.google.com/file/d/1-9EsQKUa4SXlWGLYD02m7piu7529w6TH/view?usp=sharing) + [slide 5](https://drive.google.com/file/d/1-9EsQKUa4SXlWGLYD02m7piu7529w6TH/view?usp=sharing) |
+| Linear Regression                    |                                                              |
 | Polynomial Regression                |                                                              |
 | bias-variance tradeoff               |                                                              |
 | regularization (ridge regression)    |                                                              |
