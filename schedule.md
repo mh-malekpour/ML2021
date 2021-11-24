@@ -14,13 +14,13 @@ show_sidebar: false
 | ------------------------------------ | ------------------------------------------------------------ |
 | Course Introduction and Logistics    | [slide 1](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) |
 | Introduction to Machine Learning     | [slide 2](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) |
-| **Regression Section**               | [slide 3](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 4](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 5](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) |
+| **Regression Section**               | [slide 3](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 4](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 5](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 6](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) |
 | Linear Regression                    |                                                              |
 | Polynomial Regression                |                                                              |
 | bias-variance tradeoff               |                                                              |
 | regularization (ridge regression)    |                                                              |
 | non-quadratic regularization (lasso) |                                                              |
-| **Classification Section**           |                                                              |
+| **Classification Section**           | [slide 7](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 8](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) + [slide 9](https://drive.google.com/drive/folders/1-3ryoiFJr3CESimjddb_82sQLk-kkC5u?usp=sharing) |
 | naive bayes                          |                                                              |
 | logistic regression                  |                                                              |
 | perceptron                           |                                                              |
